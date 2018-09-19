@@ -53,6 +53,6 @@ function removeFromCart(item) {
 
 function placeOrder(cardNumber) {
   while (cardNumber) {
-    
+    cart = []
   }
 }
